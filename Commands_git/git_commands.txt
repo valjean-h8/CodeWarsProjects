@@ -1,0 +1,3 @@
+
+# how drop last commit 
+# git reset --hard HEAD~
